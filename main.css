@@ -1,0 +1,41 @@
+body {
+    background-color: #B2BABB ;
+}
+
+.header {
+    color: #1B2631 ;
+}
+
+.rep {
+    font: inherit;
+}
+
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 15px;
+  
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%
+}
+
+.p {
+    font-size: larger;
+}
+
+/* .ten {
+    list-style-image: url(https://j.b5z.net/i/u/2161213/i/american-flag_ezr.gif);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+} */
